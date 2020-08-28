@@ -845,7 +845,7 @@ Output Schema
 
 In order to support the new Integration Studio (version 7.1.0 +) properties window shown below, the UI schema should be derived for each operation. If this schema is present in the connector,  when imported to the Integration Studio properties panel will automatically get generated as per the information there. 
 
-<img src="../../../assets/img/connectors/UI-schema.png" title="UI schema" width="300" alt="UI schema"/>
+<img src="../../../assets/img/connectors/UI-schema.png" title="UI schema" width="500" alt="UI schema"/>
 
 When adding the UI Model to the connector, the JSON files containing the schema should be included in a directory called ‘uischema’ under the resources directory.
 
